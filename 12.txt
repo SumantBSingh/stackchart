@@ -1,0 +1,31 @@
+ReviewInProgressRR1 = 100;
+            ReviewNotStartedRR1 = 200;
+            ReviewPastDueRR1    = 21;
+            ReviewCompletedRR1  = 31;
+            ReviewComplainceRR1 = 41;
+
+            ReviewInProgressRR2 = 19;
+            ReviewNotStartedRR2 = 121;
+            ReviewPastDueRR2    = 321;
+            ReviewCompletedRR2  = 232;
+            ReviewComplainceRR2 = 97;
+
+
+            ReviewInProgressRR3 = 100;
+            ReviewNotStartedRR3 = 200;
+            ReviewPastDueRR3    = 21;
+            ReviewCompletedRR3  = 31;
+            ReviewComplainceRR3 = 41;
+
+            ReviewInProgressRR4 = 19;
+            ReviewNotStartedRR4 = 121;
+            ReviewPastDueRR4    = 321;
+            ReviewCompletedRR4  = 232;
+            ReviewComplainceRR4 = 97;
+
+
+            ReviewInProgressRR5 = 19;
+            ReviewNotStartedRR5 = 121;
+            ReviewPastDueRR5   = 321;
+            ReviewCompletedRR5 = 232;
+            ReviewComplainceRR5= 97;
