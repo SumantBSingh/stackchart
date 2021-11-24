@@ -67,3 +67,38 @@ display: block;
     margin-top: 20px;
 
 }
+
+
+.main-wrapper .list-number ol
+
+{
+
+padding:5px 0px 0px 30px;
+
+width: 100%;
+
+display: block;
+
+
+
+}
+
+.main-wrapper .list-number ol li
+
+{
+
+    padding:0px 10px;
+
+    margin: 5px 0px;
+
+}
+
+
+
+.main-wrapper .list-number ol li ol li
+
+{
+
+    padding:0px 5px;
+
+}
